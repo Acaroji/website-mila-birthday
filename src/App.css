@@ -1,15 +1,39 @@
-
-
+.topLandingPAge {
+  background-image: url("/images/30861.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+  padding: 70px 0 5px 0;
+}
+.nombreMila{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 80px;
+  color: black;
+  letter-spacing: 5px;
+  margin-top: 20px;
+  text-align: center;
+}
+.pensamientosMila{
+  color: #702011;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  margin-top: 10px
+}
 .landingBody
  {
   background-color: #f0a42f;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-family: 'Courier New', Courier, monospace;
   color: white;
+  font-size: 25px;
+}
+.information{
+  padding: 50px 20px 20px 20px;
+  justify-content: center;
 }
 
 
