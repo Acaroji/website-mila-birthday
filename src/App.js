@@ -21,7 +21,7 @@ function App() {
              Nous surprendrons Mila pour ses 60 ans à Auvers sur Oise
           </div>
           <img src="./images/dry-leaf1.png" alt="hoja" />
-          <div className="messageBottom"> wfw</div>
+          <div className="messageBottom"> </div>
           <div className="confirmation">
             <a href="https://forms.gle/NfxJTqnuWzhw8z3N6"> <button className="button"> Confirmer ma participation</button></a> 
           </div> 
